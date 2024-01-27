@@ -12,19 +12,21 @@ In addition to my primary interests, I also have a keen passion for tech, design
 
 ## Skills 🪄
 
-**Programming Languages**
+**Main Tech Terrain ✨**
 
-[![Languages](https://skillicons.dev/icons?i=py,dart,swift,ts,js,html,css,c)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=flutter,dart,swift,py)](https://skillicons.dev)
 
+**Future-Tech Curiosities 🔭**
 
-**Technologies/Frameworks**
+[![Languages](https://skillicons.dev/icons?i=nextjs,tailwind,ts,kotlin,tensorflow,firebase,gcp,figma)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,tensorflow,pytorch,nodejs,flask,firebase,sqlite)](https://skillicons.dev)
+**Tech Tales 🔑**
 
+[![Languages](https://skillicons.dev/icons?i=c,java,php,js,html,css,react,nodejs,express,flask,aws,vercel,heroku,docker,mysql,sqlite,pytorch,sklearn,gradle)](https://skillicons.dev)
 
-**Tools**
+**Tech Weapons 🛠️**
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,gcp,vercel,postman,docker,figma,ai,pr,ae)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,bash,linkedin,gmail,instagram,twitter,discord,postman,stackoverflow,ae,ai,pr)](https://skillicons.dev)
 
 
 ## How To Reach Me 📞
