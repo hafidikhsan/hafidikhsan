@@ -37,6 +37,10 @@ In addition to my primary interests, I also have a keen passion for tech, design
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/hafidikhsana/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hafidikhsanarifin@gmail.com)
 
+---
+<p align="center">
+    © 2024 Hafid Ikhsan Arifin. All rights reserved. Made with ❤️ from AD
+</p>
 
 <!--
 **hafidikhsan/hafidikhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
